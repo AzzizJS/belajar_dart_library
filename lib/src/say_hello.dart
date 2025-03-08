@@ -1,3 +1,3 @@
-String sayHallo (String name){
-  return "Hallo $name";
+String sayHallo(String name) {
+  return "Hallo $name nice to see you";
 }
